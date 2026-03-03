@@ -142,7 +142,7 @@ Despite being the least expensive item, **Edamame is one of the top sellers**, i
 
 ---
 
-## 6️⃣ High-Spending Customer Behavior
+##  High-Spending Customer Behavior
 
 Analysis of the **top 5 highest-spending orders** revealed:
 
