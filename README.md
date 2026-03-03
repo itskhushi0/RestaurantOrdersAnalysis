@@ -112,7 +112,7 @@ These items likely drive repeat traffic and stable revenue.
 
 ---
 
-## 4️⃣ Worst-Performing Items
+## Worst-Performing Items
 
 | Item | Category |
 |-------|----------|
