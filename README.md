@@ -212,6 +212,11 @@ Use findings to:
 - Revenue and transaction analysis  
 - Business performance evaluation  
 - Data storytelling for stakeholders  
-- Translating analytics into strategic recommendations  
+- Translating analytics into strategic recommendations
+
+  ---
+
+#  Credits
+Data was obtained from Maven Analytics.
 
 
